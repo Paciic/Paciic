@@ -1,11 +1,5 @@
 <!DOCTYPE HTML>
 <html>
-<style> 
-  h1 {
-  background-color: #FFFFFF;
-  color: #000000;
-  }
-  </style>
   <header> 
   <h1> Fu- </h1>
   </header>

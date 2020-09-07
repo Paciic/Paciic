@@ -4,6 +4,7 @@
   <h1> Fu- </h1>
   </header>
   <main>
-    <p> Hi, I am an idiot who knows some stuff, as seen by the repositories below. </p>
+    <p> Learning to code while being an idiot and liking trains </p>
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/Underground_no-text.svg/1260px-Underground_no-text.svg.png">
   </main> 
   </html>

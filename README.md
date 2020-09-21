@@ -1,7 +1,8 @@
-<!DOCTYPE HTML>
+<!DOCTYPE html>
 <html>
   <header> 
-   Fu- 
+    <h1> Fu- </h1>
   </header>
-  <main>
-    <h2> Learning to code while being an idiot <h2>
+  <h2>
+    Learning to code while being an idiot
+    </h2>

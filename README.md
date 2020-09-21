@@ -1,9 +1,12 @@
 <!DOCTYPE HTML>
 <html>
   <header> 
-  <h1> Fu- </h1>
+   Fu- 
   </header>
   <main>
-    <p> Learning to code while being an idiot </p>
-    <a href="https://github.com/inkthought-labs/honkers" target="_blank"> <img src="https://images.discordapp.net/avatars/693035835452424193/6ddbea0f3ac219a633833660f8a3846f.png?size=512" alt="HONK"> </a>
-    <p> Also, don't disrespect the honk, or you're gonna get the bonk </p>
+    <h3> Learning to code while being an idiot <h3>
+    <br>
+      <h3> I like trains </h3>
+       <h4> Favourite Train Stock: 1972, 1992 and 2009 London Underground Rolling Stock<h4>
+         
+    

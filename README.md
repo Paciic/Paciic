@@ -1,9 +1,8 @@
 <!DOCTYPE html>
 <html>
   <header> 
-    <h1> Fu- </h1>
+    <h1> paciic here </h1>
   </header>
   <h2>
-    Learning to code while being an idiot
+    i have no idea what im doing but its working
     </h2>
-  <h3> Also I like trains </h3>
